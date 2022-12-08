@@ -74,7 +74,7 @@ Deepstream SDK
 
 - **XAI**  
 Responsible AI  
-Explainable ai
+Explainable AI
 
 - **MLOps**  
 Pipeline management  
