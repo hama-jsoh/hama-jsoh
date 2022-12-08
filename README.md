@@ -68,9 +68,9 @@
 #
 ### 🌱 Interest
 - **Quantization**  
-ONNX  
-TensorRT  
-Deepstream SDK  
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Deepstream SDK](https://img.shields.io/badge/Deepstream-SDK-76B900?style=flat-square&logo=NVIDIA&logoColor=white)  
 
 - **XAI**  
 Responsible AI  
